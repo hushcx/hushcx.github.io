@@ -27,6 +27,7 @@
   }
 
 .content {
+	background: transparent;
     position: fixed;
     left: 0;
     right: 0;
